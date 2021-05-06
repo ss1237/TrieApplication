@@ -41,7 +41,7 @@ GET /prefix?value=a
 
 The endpoint can search for words in the trie that have a certain prefix.  
 Successful searches return: *Words starting with a: [ab, abcd]*  
-Unsuccessful searches return: *Words starting with a: []*
+Unsuccessful searches return: *Words starting with a: []*  
 The sets are always arranged in alphabetical order.
 
 5\. Display the trie
